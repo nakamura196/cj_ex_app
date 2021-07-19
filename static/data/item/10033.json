@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "村"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "西ノ古見村"
+    ],
+    "label": "西間切之内",
+    "latitude": [
+        "28.2418645"
+    ],
+    "longitude": [
+        "129.1569688"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=14336,2653,122,155",
+    "objectID": "10033",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/14336,2653,122,155/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/HJXqc69qbqWKdHmc7"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "瀬戸内町西古見"
+    ],
+    "番号": [
+        "〔28〕"
+    ]
+}

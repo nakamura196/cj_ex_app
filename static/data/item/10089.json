@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "航路"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        ""
+    ],
+    "label": "七嶋之内とから嶋よりふかいか浦湊迄、海上三十五里巳之方ニ当ル、此渡昼夜共ニ潮東へ落ス",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21621,310,489,1737",
+    "objectID": "10089",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/21621,310,489,1737/200,/0/default.jpg",
+    "リンク": [
+        ""
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        ""
+    ],
+    "番号": [
+        "15"
+    ]
+}

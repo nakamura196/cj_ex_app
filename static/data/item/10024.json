@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "村"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "ゆあんかま村"
+    ],
+    "label": "焼内間切之内",
+    "latitude": [
+        "28.3480798"
+    ],
+    "longitude": [
+        "129.4217212"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=17982,3847,136,166",
+    "objectID": "10024",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/17982,3847,136,166/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/CVg39M4dyTWBYJC67"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "大和村湯湾釜"
+    ],
+    "番号": [
+        "〔19〕"
+    ]
+}

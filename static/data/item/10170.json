@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "崎"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        ""
+    ],
+    "label": "こほれん崎",
+    "latitude": [
+        "28.2757994"
+    ],
+    "longitude": [
+        "129.279128"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=15442,3484,107,148",
+    "objectID": "10170",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/15442,3484,107,148/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/DvbJWEU4CtJugsfD7"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "宇検村部連、現キャギ崎"
+    ],
+    "番号": [
+        "97"
+    ]
+}

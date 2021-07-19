@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "港湾"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "此和にや泊、入壱町廿間、広さ廿間、深さ五尋、水底惣岩、船繋リ不自由、西風之時船繋リ不成"
+    ],
+    "label": "和にや泊",
+    "latitude": [
+        "27.8329601"
+    ],
+    "longitude": [
+        "128.8911057"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=7771,4198,937,153",
+    "objectID": "10347",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/7771,4198,937,153/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/us2WTNYUaDSvrBbdA"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "天城町浅間"
+    ],
+    "番号": [
+        "273"
+    ]
+}

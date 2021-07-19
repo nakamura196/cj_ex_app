@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "干瀬"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        ""
+    ],
+    "label": "白瀬",
+    "latitude": [
+        "28.1522976"
+    ],
+    "longitude": [
+        "129.3661515"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=15067,6209,44,76",
+    "objectID": "10211",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/15067,6209,44,76/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/5uijhFR3uwr4us3w7"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "瀬戸内町蘇刈、現崎原島近辺（私見）"
+    ],
+    "番号": [
+        "138"
+    ]
+}

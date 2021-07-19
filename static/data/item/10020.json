@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "村"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "かしけん村"
+    ],
+    "label": "笠利間切之内",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=19801,5604,127,157",
+    "objectID": "10020",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/19801,5604,127,157/200,/0/default.jpg",
+    "リンク": [
+        "https://maps.gsi.go.jp/#16/28.400282/129.610219/&base=std&ls=std&disp=1&vs=c1j0h0k0l0u0t0z0r0s0m0f1"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "龍郷町赤尾木　加世間（GMに登録なし）"
+    ],
+    "番号": [
+        "〔15〕"
+    ]
+}

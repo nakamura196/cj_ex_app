@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "港湾"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "此あがさ泊、入弐町、広さハ三町、干汐ニ深さ三尋、水底惣はへにて船繋り不自由、西風北風ノ時船繋り不成"
+    ],
+    "label": "あがさ泊",
+    "latitude": [
+        "27.0504243"
+    ],
+    "longitude": [
+        "128.4030181"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3648,8980,212,766",
+    "objectID": "10390",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/3648,8980,212,766/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/qFEeSvdhsGMzQDVX7"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "与論町茶花"
+    ],
+    "番号": [
+        "316"
+    ]
+}

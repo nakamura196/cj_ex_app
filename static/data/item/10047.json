@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "村"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "あきな村"
+    ],
+    "label": "東間切之内",
+    "latitude": [
+        "28.1868716"
+    ],
+    "longitude": [
+        "129.3258125"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=14880,5567,131,147",
+    "objectID": "10047",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/14880,5567,131,147/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/NpDYsJ3WH6fxrFAb9"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "瀬戸内町阿木名"
+    ],
+    "番号": [
+        "〔42〕"
+    ]
+}

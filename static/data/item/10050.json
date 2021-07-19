@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "村"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "かねく村"
+    ],
+    "label": "住用間切之内",
+    "latitude": [
+        "28.3175572"
+    ],
+    "longitude": [
+        "129.4605625"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=17347,5289,125,148",
+    "objectID": "10050",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/17347,5289,125,148/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/yLgPVzWt4ttuMos9A"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "住用村 城"
+    ],
+    "番号": [
+        "〔45〕"
+    ]
+}
