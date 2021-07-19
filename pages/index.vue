@@ -47,7 +47,7 @@
           height="600px"
           class="my-5"
           :src="
-            'https://hi-ut.github.io/100ex/cp/?u=' +
+            baseUrl + '/cp/?u=' +
             'https://nakamura196.github.io/cj_ex/v3/' +
             collection['@id'].split('/collection/')[1]
           "
@@ -56,7 +56,7 @@
         <div class="pa-5">
 
           <div class="text-right">
-            <v-btn class="ma-1" @click="opened = key" rounded color="primary">{{$t(opened !== key ? "Open" : "close")}}</v-btn>
+            <v-btn class="ma-1" @click="opened !== key ? opened = key : opened = -1" rounded color="primary">{{$t(opened !== key ? "Open" : "close")}}</v-btn>
 
             <v-btn
               class="ma-1"
