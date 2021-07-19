@@ -1,0 +1,2908 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/top.json",
+    "@type": "sc:Collection",
+    "attribution": "Provided by Self Museum",
+    "collections": [
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/metmuseum-exhib-2013-birds-in-the-art-of-japan.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Metropolitan Museum of Art",
+                "ja": "メトロポリタン美術館"
+            },
+            "description": "This exhibition presents approximately 150 works in various media from medieval times to the present. Highlights include a unique, early seventeenth-century pair of ink-painted screens showing a flock of 120 mynah birds in flight or strutting on the shore; and a set of four enormous paintings of birds of prey by the nineteenth-century master Kawanabe Kyōsai, each over nine feet high. Displays of paintings will be juxtaposed with examples of modern and contemporary textiles, ceramics, lacquerware, and bamboo art. Drawn mostly from the Museum's own collection, it will also feature some fifteen works on loan from private collections.",
+            "label": "Birds in the Art of Japan",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2013"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/metmuseum-exhib-2013-brush-writing.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Metropolitan Museum of Art",
+                "ja": "メトロポリタン美術館"
+            },
+            "description": "In the East Asian tradition, handwriting was thought to reflect one's personality, but not in the sense of Western graphology, or handwriting analysis. Rather, through the copying of revered models and through creative innovation, a distinctive handwriting style conveyed one's literary education, cultural refinement, and carefully nurtured aesthetic sensibilities.",
+            "label": "Brush Writing in the Arts of Japan",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2013-2014"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/metmuseum-exhib-2014-kimono.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Metropolitan Museum of Art",
+                "ja": "メトロポリタン美術館"
+            },
+            "description": "The Arts of Japan Galleries have been transformed into a dazzling fashion show of kimono from the late eighteenth century to the present day. Translated literally as \"thing to wear,\" the kimono has gone through major transformations throughout history: in the Edo period (1615–1868) it was an everyday garment, and now it is worn mainly on special occasions and collected as \"traditional Japanese art.\" ... Highlights also include three examples of contemporary kimono created by designers designated by the Japanese government as Living National Treasures.",
+            "label": "Kimono: A Modern History",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2014-2015"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/metmuseum-exhib-2015-celebrating-the-arts-of-japan.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Metropolitan Museum of Art",
+                "ja": "メトロポリタン美術館"
+            },
+            "description": "This tribute to a great collector reveals the distinctive features of Japanese art as viewed through the lens of 50 years of collecting: the sublime spirituality of Buddhist and Shinto art; the boldness of Zen ink painting; the imaginary world conjured up by the Tale of Genji and classical Japanese literature; the sumptuous colors of bird-and-flower painting; the subtlety of poetry, calligraphy, and literati themes; the aestheticized accoutrements of the tea ceremony; and the charming portraiture of courtesans from the \"floating world\" (ukiyo-e).",
+            "label": "Celebrating the Arts of Japan: The Mary Griggs Burke Collection",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2015-2017"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/metmuseum-exhib-2015-discovering-japanese-art.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Metropolitan Museum of Art",
+                "ja": "メトロポリタン美術館"
+            },
+            "description": "The 2015 centennial of the Department of Asian Art offers an ideal opportunity to explore the history of the Museum's collection of Japanese art. Showcasing more than two hundred masterworks of every medium, this exhibition tells the story of how the Museum built its comprehensive collection of Japanese art beginning in the early 1880s, when it owned just a small, eclectic array of Japanese decorative arts.",
+            "label": "Discovering Japanese Art: American Collectors and the Met",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2015"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/metmuseum-exhib-2018-japanese-arms-and-armor.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Metropolitan Museum of Art",
+                "ja": "メトロポリタン美術館"
+            },
+            "description": "Presenting a wide array of samurai armor, blades, and accoutrements dating from the fifteenth to the nineteenth century, this exhibition celebrates the promised gift of thirty-seven objects from the collection of Etsuko and John Morris, as well as other important gifts made by Mr. and Mrs. Morris to The Met's Department of Arms and Armor over the past seventeen years.",
+            "label": "Japanese Arms and Armor from the Collection of Etsuko and John Morris",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2018-2019"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/metmuseum-exhib-2018-poetry-of-nature.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Metropolitan Museum of Art",
+                "ja": "メトロポリタン美術館"
+            },
+            "description": "Painting blossomed in Japan during the Edo period (1615–1868) as artists daringly experimented with conventional styles. In this exhibition, more than forty examples of Edo-period paintings from the collection of Estelle P. Bender and her late husband T. Richard Fishbein—mostly gifts and promised gifts to The Met—help trace the development of the major schools and movements of this fascinating era. Contemporary Japanese ceramics are juxtaposed with Edo-period paintings, while works in various formats and media from The Met collection provide context. The celebration of the natural world serves as a unifying theme, and the intertwined relationship between poetry and the pictorial arts—so fundamental to Japanese tradition—is a particular focus of the exhibition.",
+            "label": "The Poetry of Nature: Edo Paintings from the Fishbein-Bender Collection",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2018-2019"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/metmuseum-exhib-2019-tale-of-genji.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Metropolitan Museum of Art",
+                "ja": "メトロポリタン美術館"
+            },
+            "description": "This is the first major loan exhibition in North America to focus on the artistic tradition inspired by Japan's most celebrated work of literature, The Tale of Genji...Highlights include two National Treasures and several works recognized as Important Cultural Properties. For the first time ever outside Japan, rare works are on view from Ishiyamadera Temple—where, according to legend, Shikibu started writing the tale.",
+            "label": "The Tale of Genji: A Japanese Classic Illuminated",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2019"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/metmuseum-exhib-2021-japan-history-of-style.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Metropolitan Museum of Art",
+                "ja": "メトロポリタン美術館"
+            },
+            "description": "This exhibition celebrates how gifts and acquisitions of the last decade have transformed The Met’s ability to narrate the story of Japanese art by both expanding and deepening the range of remarkable artworks that can meaningfully elucidate the past. Each of the ten rooms that make up the Arts of Japan Galleries features a distinct genre, school, or style, representing an array of works in nearly every medium, from ancient times to the present. Highlights include the debut of a spectacular group of contemporary metalwork by Living National Treasures and emerging artists, and, in the first rotation, a selection of woodblock prints from the Lee E. Dirks Collection.",
+            "label": "Japan: A History of Style",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2021-2022"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-imagining-garden-2015.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Imagining the Garden",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2015-2016"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-modern-garden-2015.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Painting the Modern Garden: Monet to Matisse",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2015-2016"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-painted-poetry-2011.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Lure of Painted Poetry: Cross-cultural Text and Image in Korean and Japanese Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2011"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-reeds-and-geese-2017.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Reeds and Geese: Japanese Art from the Collection of George Gund III",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2017"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-16c-japan-1991.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Triumph of Japanese Style: 16th Century Art in Japan",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1991"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-20th-anniv-1936.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1936"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-35th-anniv-1951.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "35th Anniversary Exhibition",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1951"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-acquisitions-1991.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Notable Acquisitions",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1991"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-acquisitions-1993.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Selected Acquisitions",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1993"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-admired-2014.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Admired from Afar: Masterworks of Japanese Painting from the Cleveland Museum of Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2014"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "東京"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-admired-2014.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Admired from Afar: Masterworks of Japanese Painting from the Cleveland Museum of Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2014"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "福岡"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-affection-1992.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Signs of Affection: Gifts Honoring the Museum's 75th Anniversary",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1992-1993"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-animals-1986.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Animals as Romantic Icons in French Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1986"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-art-is-long-1948.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Exhibition of the Month: Art is Long",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1948"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-art-language-1956.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Art: The International Language",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1956"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-artist-river-sea-1947.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Exhibition of the Month: The Artist, The River and the Sea",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1947"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-asian-autumn-1991.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Asian Autumn: Masterpieces from the Collection",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1991-1992"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-asian-autumn-1993.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Asian Autumn: Splendid Variety: 18th-Century Art in Japan",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1993-1994"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-asian-autumn-1995.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Asian Autumn: Early Ceramics from Japan and Korea",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1995"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-asian-games-2004.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Asian Games: The Art of Contest",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2005"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-asian-journeys-2009.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Asian Journeys: Collecting Art in Post-war America",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2009"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-asian-paintings-1998.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Highlights of Asian Paintings from The Cleveland Museum of Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1998"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "東京"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-asian-paintings-1998.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Highlights of Asian Paintings from The Cleveland Museum of Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1998"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "奈良"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-autumn-grasses-1988.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Autumn Grasses: Arts of the Momoyama Period (1573-1615)",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1988"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-bestiary-1981.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "A Cleveland Bestiary",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1981"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-biombo-2007.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Biombo: Japan's Gift of Folding Screens to the West",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2007"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "東京"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-biombo-2007.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Biombo: Japan's Gift of Folding Screens to the West",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2007"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "大阪"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-buddhist-1996.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Object as Insight: Japanese Buddhist Art and Ritual",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1996"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-byobu-1984.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Byobu: The Art of the Japanese Screen",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1984"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-byobu-1987.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Byobu: The Art of the Japanese Screen",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1987-1988"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-ceramics-1982.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The World of Ceramics: Masterpieces from the Cleveland Museum of Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1982"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-conserving-2001.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Conserving the Past for the Future",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2001"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-consuming-passions-1983.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Consuming Passions: The Art of Food and Drink",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1983"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-cooperative-2001.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Cooperative Program of the Conservation of Japanese Art Objects in the Collection of the Cleveland Museum of Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2001"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "東京"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-dragon-in-asia-1990.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Powerful Form and Potent Symbol: The Dragon in Asia",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1990"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-drawings-1987.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Collecting Drawings in England",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1987-1988"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-dutch-art-1973.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Dutch Art and Life in the Seventeenth Century",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1973"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-east-and-west-1982.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Visions of Landscape: East and West",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1982"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-faces-1944.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Ways of Drawing Faces",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1944-1945"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-fans-1992.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Fans: East and West",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1992-1993"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-flower-containers-1952.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Exhibition of the Month: Historic Flower Containers",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1952-1953"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-flowers-1952.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Exhibition of the Month: Flowers in Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1952"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-geometry-2006.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2006"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-globe-2007.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Encompassing the Globe: Portugal and the World in the 16th and 17th Centuries",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2007"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-gogh-1936.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Vincent Van Gogh",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1936"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-golden-anniv-1966.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Golden Anniversary of Acquisitions",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1966"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-hair-ornaments-1936.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese Hair Ornaments, Pouches and Toilet Articles",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1936"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-hanna-1958.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "In Memoriam: Leonard C. Hanna, Jr.",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1958"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-herbs-1953.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Exhibition of the Month: Herbs in Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1953"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-honami-koetsu-2000.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Arts of Hon'ami Koetsu: Japanese Renaissance Master",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2000"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-honen-2011.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Honen: The Life and Art of the Founder of the Pure Land Buddhist Sect",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2011"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "京都"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-images-mind-1987.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Images of the Mind",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1987"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-inaugural-1916.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Inaugural Exhibition",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1916"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-ink-paintings-2000.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Ink Paintings and Ash-Glazed Ceramics:  Medieval Calligraphy, Painting, and Ceramic Art from Japan and Korea",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2000"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-chinese-1988.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "A Private World: Japanese and Chinese Art from the Kelvin Smith Collection",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1988"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-decorative-1961.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese Decorative Style",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1961"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-gallery-201609.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese Gallery 235 Rotation - September 2016-January 2017",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2016-2017"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-gallery-201701.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese Gallery 235 Rotation - January-July 2017",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2017"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-gallery-201703.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese Gallery 235 Rotation - March-July 2017",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2017"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-gallery-201707.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese Gallery 235 Rotation - July 2017-January 2018",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2017"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-gallery-201710.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese Gallery 235 Rotation - October 2017-January 2018",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2017-2018"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-gallery-201801.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese Gallery 235 Rotation - January 2018-July 2018",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2018"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-gallery-201803.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese Gallery 235 Rotation - March-July 2018",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2018"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-gallery-201807.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese Gallery 235 Rotation - July 2018-January 2019",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2018-2019"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-korean-2015.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese and Korean Gallery Rotation - July 2015-January 2016",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2015-2016"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-prints-1934.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese Prints from the Museum Collection",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1934"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-japanese-screens-1977.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Japanese Screens from the Museum and Cleveland Collections",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1977"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-jomon-pots-2001.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Object in Focus:  Jomon Pots:  The World's Oldest Ceramic Tradition",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2001"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-juxtapositions-1965.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Juxtapositions",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1965"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-koshigaraki-1999.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Koshigaraki - The Shigaraki Jar in the Middle Ages",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1999"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "滋賀"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-legacy-1996.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Legacy of Japanese Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1996"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "千葉"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-mary-cassatt-1993.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Mary Cassatt and Berthe Morisot",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1993-1994"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-mask-1951.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Mask",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1951-1952"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-materials-1958.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Materials of the Artist",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1958"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-millionaires-row-2005.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Millionaires' Row: The Legacy of Euclid Avenue",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2005-2006"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-miniature-painting-1953.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The World of Miniature Painting",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1953"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-mirrors-1984.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Mirrors: Art and Symbol",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1994-1985"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-monet-2001.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Monet & Japan",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2001"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "オーストラリア"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-mother-symbol-1953.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Exhibition of the Month: The Mother Symbol",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1953-1954"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-mountains-rocks-1987.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Mountains, Rocks, and Water: Landscape Painting in Asia",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1987"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-music-in-art-1945.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Exhibition of the Month: Music in Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1945-1946"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-nara-national-1997.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Past Century of Nara National Museum - From Preaching Scene of Shakyamuni to Picture Scroll of Kusamakura",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1997"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "奈良"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-nature-sublime-2004.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Nature Sublime: Landscapes from the 19th Century",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2004"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-netsuke-2000.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Art in Miniature:  Japanese Netsuke from The Toledo Museum of Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2000"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-nudes-1945.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Exhibition of the Month: Ways of Drawing Nudes",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1945"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-object-lessons-1991.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Object Lessons: Cleveland Creates an Art Museum",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1991"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-oribe-1997.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "ORIBE: Researching \"Oribeism\"",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1997"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-oribe-2003.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Turning Point: Oribe and the Arts of Sixteenth-Century Japan",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2003-2004"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-porcelain-1982.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Porcelain Connection",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1982"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-portraiture-1983.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Portraiture: The Image of the Individual",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1983-1984"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-potters-eye-2005.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Potter's Eye: Art and Tradition in North Carolina Pottery",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2005-2006"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-printmaking-1959.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Art of Printmaking",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1959-1960"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-printmaking-1984.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Transformations in Japanese Printmaking",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1984"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-prints-2004.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Visions of Japan: Prints and Paintings from Cleveland Collections",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2004-2005"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-promenades-1981.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Promenades, Pageants, Processions, and Pilgrimages",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1981-1982"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-reflections-1983.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Reflections of Reality in Japanese Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1983"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-restoration-1997.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Restoration at Tokyo National Research Institute of Cultural Properties",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1997-1998"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "東京"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1960.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review - Nineteen Hundred Sixty",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1960-1961"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1961.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review (1961)",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1961"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1962.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review - 1962",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1962"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1963.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review (1963)",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1963-1964"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1964.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review (1964)",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1965"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1965.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review: 1965",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1965"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1967.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review: 1967",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1967"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1968.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review: 1968",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1969"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1969.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review: 1969",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1970"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1970.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review: 1970",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1971"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1971.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review: 1971",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1971-1972"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1972.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review: 1972",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1973"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1976.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review, 1976",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1977"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1977.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review: 1977",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1977-1978"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1978.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review: 1978",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1979"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1980.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review: 1980",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1981"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1981.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Year in Review for 1981",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1982"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1982.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Year in Review for 1982",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1983"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1983.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Year in Review for 1983",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1984"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1984.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review for 1984",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1985"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1985.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Year in Review for 1985",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1986"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1986.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Year in Review for 1986",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1987"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1987.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Year in Review for 1987",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1988"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-review-1988.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Year in Review for 1988",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1989"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-rimpa-2004.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Rimpa",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2004"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "東京"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-rimpa-painting-1989.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Rimpa Painting",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1989"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-saints-hermits-1999.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Saints and Hermits - Peoples in Serenity Deep in the Nature",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1999"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "奈良"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-scholars-studio-1989.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Scholar's Studio",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1989"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-screen-2001.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Unfolding Beauty:  Japanese Screens from the Cleveland Museum of Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2001"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-sculpture-1975.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Traditions and Revisions: Themes from the History of Sculpture",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1975"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-sea-1950.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Sea",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1950"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-sesshu-2002.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Sesshu, Master of Ink and Brush:  500th Anniversary Exhibition",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2002"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "京都"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-sesshu-2002.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Sesshu, Master of Ink and Brush:  500th Anniversary Exhibition",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2002"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "東京"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-severance-1990.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Severance and Greta Millikin Collection",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1990"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-sherman-lee-2009.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Honoring Sherman Lee",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2009"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-shugendoh-1999.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The World of Enno-Gyoja and Shugendoh:  Secret Treasures of Mountain Asceticism",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1999"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "東京"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-shugendoh-1999.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The World of Enno-Gyoja and Shugendoh:  Secret Treasures of Mountain Asceticism",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1999"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "大阪"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-silver-1941.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Silver Jubilee Exhibition",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1941"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-silver-wind-2012.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Silver Wind: The Art of Sakai Hoitsu (1761-1828) and His Circle",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2012-2013"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-soga-shohaku-2005.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Soga Shohaku (1730-81)",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2005"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "京都"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-sotatsu-2015.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Sotatsu: Making Waves",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2015-2016"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-spiritual-2000.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Intimate Rituals and Personal Devotions: Spiritual Art Through the Ages",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2000-2001"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-suibokuga-1985.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Suibokuga: Japanese Ink Painting",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1985-1986"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-tantra-2013.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "Focus: Tantra in Buddhist Art",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "2013"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-twain-1985.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The Twain Shall Meet",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1985-1986"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        },
+        {
+            "@id": "https://nakamura196.github.io/cj_ex/iiif/collection/cleveland-exhib-whistler-1988.json",
+            "@type": "sc:Collection",
+            "attribution": {
+                "en": "Cleveland Museum of Art",
+                "ja": "クリーブランド美術館"
+            },
+            "label": "The View from Afar: Whistler and the Japanese Print",
+            "metadata": [
+                {
+                    "label": "schema:temporal",
+                    "value": "1988"
+                },
+                {
+                    "label": "schema:spatial",
+                    "value": "アメリカ"
+                }
+            ]
+        }
+    ],
+    "description": "Description of Collection",
+    "label": "Cultural Japan 展示会",
+    "viewingHint": "top"
+}

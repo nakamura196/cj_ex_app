@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "崎"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        ""
+    ],
+    "label": "をのつ崎",
+    "latitude": [
+        "28.3662751"
+    ],
+    "longitude": [
+        "129.9989043"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=22499,7702,79,169",
+    "objectID": "10076",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/22499,7702,79,169/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/HxQXKyLxRyVTvnR8A"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "喜界町小野津神宮・前金久（私見）"
+    ],
+    "番号": [
+        "5"
+    ]
+}

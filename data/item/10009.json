@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "間切"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "千五十石余"
+    ],
+    "label": "西目間切",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=21757,8016,140,159",
+    "objectID": "10009",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/21757,8016,140,159/200,/0/default.jpg",
+    "リンク": [
+        ""
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "喜界町／喜界島中央部北側"
+    ],
+    "番号": [
+        "〔4〕"
+    ]
+}

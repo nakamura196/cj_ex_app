@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "間切"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "三千九百八拾弐石余"
+    ],
+    "label": "面縄間切",
+    "latitude": [
+        "27.6735195"
+    ],
+    "longitude": [
+        "128.9378668"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=8783,7012,124,147",
+    "objectID": "10061",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/8783,7012,124,147/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/4MadUCGKn3r1iYJ78"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "伊仙町"
+    ],
+    "番号": [
+        "〔56〕"
+    ]
+}

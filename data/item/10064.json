@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "村"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "西目村"
+    ],
+    "label": "徳時間切之内",
+    "latitude": [
+        "27.3797757"
+    ],
+    "longitude": [
+        "128.5703543"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=4813,7135,115,137",
+    "objectID": "10064",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/4813,7135,115,137/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/8hm4kfsugULBJTb5A"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "知名町上城・新城"
+    ],
+    "番号": [
+        "〔59〕"
+    ]
+}

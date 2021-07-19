@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "村"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "よなま村"
+    ],
+    "label": "西目間切之内",
+    "latitude": [
+        "27.8604602"
+    ],
+    "longitude": [
+        "128.9198304"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=9550,3791,118,145",
+    "objectID": "10057",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/9550,3791,118,145/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/89KYpZ15D1Kb7ng89"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "天城町与名間"
+    ],
+    "番号": [
+        "〔52〕"
+    ]
+}

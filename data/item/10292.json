@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "干瀬"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        ""
+    ],
+    "label": "遠干潟",
+    "latitude": [
+        "28.0355165"
+    ],
+    "longitude": [
+        "129.2331926"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=12351,5434,101,49",
+    "objectID": "10292",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/12351,5434,101,49/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/6FExLHg5jC3apasz7"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "瀬戸内町池地（私見）"
+    ],
+    "番号": [
+        "218"
+    ]
+}

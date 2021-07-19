@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "渡河点"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        ""
+    ],
+    "label": "歩渡り",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=8440,4800,85,37",
+    "objectID": "10346",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/8440,4800,85,37/200,/0/default.jpg",
+    "リンク": [
+        ""
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        ""
+    ],
+    "番号": [
+        "272"
+    ]
+}

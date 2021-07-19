@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "崎"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        ""
+    ],
+    "label": "あさん崎",
+    "latitude": [
+        "28.3497355"
+    ],
+    "longitude": [
+        "129.3113573"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=16838,2562,74,142",
+    "objectID": "10156",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/16838,2562,74,142/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/t7VSAYys6C7j9Dhd8"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "大和村戸円、現阿山崎"
+    ],
+    "番号": [
+        "83"
+    ]
+}

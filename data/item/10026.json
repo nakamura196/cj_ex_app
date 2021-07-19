@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "村"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "なをん村"
+    ],
+    "label": "焼内間切之内",
+    "latitude": [
+        "28.3111107"
+    ],
+    "longitude": [
+        "129.3361881"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=16601,2963,139,160",
+    "objectID": "10026",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/16601,2963,139,160/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/ECfVkxEDER1yqs6i6"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "大和村名音"
+    ],
+    "番号": [
+        "〔21〕"
+    ]
+}

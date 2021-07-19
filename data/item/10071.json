@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "村"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        "あがさ村"
+    ],
+    "label": "むきや村内",
+    "latitude": [
+        "27.0493098"
+    ],
+    "longitude": [
+        "128.414953"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=3825,9748,117,145",
+    "objectID": "10071",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/3825,9748,117,145/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/tqnncsC8UmnAHGrv8"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "与論町茶花、現赤佐（私見）（地理院地図）"
+    ],
+    "番号": [
+        "〔66〕"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "崎"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        ""
+    ],
+    "label": "赤崎",
+    "latitude": [
+        "28.4016995"
+    ],
+    "longitude": [
+        "129.4890583"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=19256,3950,49,95",
+    "objectID": "10141",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/19256,3950,49,95/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/aXv6QDVxHyLHeuSA6"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "名瀬市朝仁・朝仁町・朝仁新町、現赤崎（地理院地図）"
+    ],
+    "番号": [
+        "68"
+    ]
+}

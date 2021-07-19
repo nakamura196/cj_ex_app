@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "干瀬"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        ""
+    ],
+    "label": "黒瀬",
+    "latitude": [
+        "28.3590347"
+    ],
+    "longitude": [
+        "129.3541259"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=17672,3333,46,87",
+    "objectID": "10151",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/17672,3333,46,87/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/KgFYiEQ6oS2rGE1C9"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "大島郡大和村大字大棚・大金久　\n「毛陳村」の項に記載あり。（廃村）GＭ等で判断"
+    ],
+    "番号": [
+        "78"
+    ]
+}

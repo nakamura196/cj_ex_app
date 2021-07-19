@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "干瀬"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        ""
+    ],
+    "label": "三ツ瀬",
+    "latitude": [
+        "28.3043376"
+    ],
+    "longitude": [
+        "129.5425308"
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=18579,6579,45,74",
+    "objectID": "10232",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/18579,6579,45,74/200,/0/default.jpg",
+    "リンク": [
+        "https://goo.gl/maps/EoRdgbavvEAhABBb9"
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        "名瀬市小湊"
+    ],
+    "番号": [
+        "159"
+    ]
+}

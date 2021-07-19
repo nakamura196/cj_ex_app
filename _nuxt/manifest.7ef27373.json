@@ -1,0 +1,12 @@
+{
+  "name": "CJ Gallery",
+  "short_name": "琉球国絵図",
+  "description": "",
+  "icons": [],
+  "start_url": "/cj_ex_app/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja",
+  "orientation": "portrait"
+}

@@ -1,0 +1,36 @@
+{
+    "_updated": "2021-07-16",
+    "category": [
+        "航路"
+    ],
+    "curation": "https://hi-ut.github.io/ryukyu_data/curation/shoho-0001.json",
+    "description": [
+        ""
+    ],
+    "label": "あがさ泊より悪鬼納嶋迄、海上廿里未申之間ニ当ル、此渡昼夜共ニ汐東へ落ル",
+    "latitude": [
+        ""
+    ],
+    "longitude": [
+        ""
+    ],
+    "manifest": "https://hi-ut.github.io/ryukyu_data/iiif/shoho-0001/manifest.json",
+    "member": "https://lab-hi.github.io/map/iiif/1/manifest.json/canvas/p1#xywh=1196,9751,1534,151",
+    "objectID": "10391",
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/hi/1.tif/1196,9751,1534,151/200,/0/default.jpg",
+    "リンク": [
+        ""
+    ],
+    "備考": [
+        ""
+    ],
+    "図": [
+        "正保琉球国絵図写"
+    ],
+    "現在の地名": [
+        ""
+    ],
+    "番号": [
+        "317"
+    ]
+}
