@@ -28,7 +28,7 @@
         <div class="pa-5">
           <h2 class="mb-5">{{ collection.label }}</h2>
           <div>{{ collection.description }}</div>
-          <div class="mt-5">
+          <div class="my-5">
             <v-chip class="ma-2">
               {{ $t('access') + ': ' + collection.attribution.ja }}
             </v-chip>
@@ -36,36 +36,12 @@
               {{ $t(item.label.split(':')[1]) + ': ' + item.value }}
             </v-chip>
           </div>
-          <div class="mt-5 text-right">
-            <v-btn
-              class="ma-1"
-              target="_blank"
-              :href="
-                'https://self-museum.cultural.jp/?collection=' +
-                collection['@id']
-              "
-              rounded
-              color="primary"
-              >Self Museum <v-icon class="ml-1">mdi-open-in-new</v-icon></v-btn
-            >
-            <v-btn
-              class="ma-1"
-              target="_blank"
-              :href="
-                'http://www.kanzaki.com/works/2016/pub/image-annotator?u=' +
-                collection['@id']
-              "
-              rounded
-              color="primary"
-              >Image Annotator
-              <v-icon class="ml-1">mdi-open-in-new</v-icon></v-btn
-            >
-            <!-- <v-btn class="ma-1" target="_blank" :href="'https://hi-ut.github.io/100ex/cp/?u='+'https://nakamura196.github.io/cj_ex/v3/'+collection['@id'].split('/collection/')[1]" rounded depressed color="primary">Slide Show</v-btn> -->
-          </div>
-        </div>
 
-        <!-- loading="lazy" -->
+          </div>
+
+          <!-- loading="lazy" -->
         <iframe
+          v-if="key === opened"
           width="100%"
           frameBorder="0"
           height="600px"
@@ -76,9 +52,48 @@
             collection['@id'].split('/collection/')[1]
           "
         ></iframe>
+
+        <div class="pa-5">
+
+          <div class="text-right">
+            <v-btn class="ma-1" @click="opened = key" rounded color="primary">{{$t(opened !== key ? "Open" : "close")}}</v-btn>
+
+            <v-btn
+              class="ma-1"
+              target="_blank"
+              :href="
+                'https://self-museum.cultural.jp/?collection=' +
+                collection['@id']
+              "
+              rounded
+              
+              >Self Museum <v-icon class="ml-1">mdi-open-in-new</v-icon></v-btn
+            >
+            <!-- color="primary" -->
+
+            <v-btn
+              class="ma-1"
+              target="_blank"
+              :href="
+                'http://www.kanzaki.com/works/2016/pub/image-annotator?u=' +
+                collection['@id']
+              "
+              rounded
+              
+              >Image Annotator
+              <v-icon class="ml-1">mdi-open-in-new</v-icon></v-btn
+            >
+            <!-- color="primary" -->
+            <!-- <v-btn class="ma-1" target="_blank" :href="'https://hi-ut.github.io/100ex/cp/?u='+'https://nakamura196.github.io/cj_ex/v3/'+collection['@id'].split('/collection/')[1]" rounded depressed color="primary">Slide Show</v-btn> -->
+
+            
+          </div>
+        </div>
+
+        
       </v-card>
 
-      <div class="text-center">
+      <div class="text-center" v-if="false">
         <v-pagination
           v-model="page"
           :length="length"
@@ -100,6 +115,8 @@ export default class Item extends Vue {
 
   hide: any = process.env.hide
 
+  opened: number = -1
+
   async asyncData({ payload, app, $axios }: any) {
     if (payload) {
       return { item: payload }
@@ -108,7 +125,7 @@ export default class Item extends Vue {
       const response = await $axios.$get(url)
       const collections = response
 
-      collections.collections = collections.collections.slice(10)
+      collections.collections = collections.collections//.slice(10)
 
       return { url, collections }
     }
@@ -118,11 +135,14 @@ export default class Item extends Vue {
   perPage: number = 10
 
   get items() {
+    /*
     const from = (this.page - 1) * this.perPage
     return (this as any).collections.collections.slice(
       from,
       from + this.perPage
     )
+    */
+    return (this as any).collections.collections
   }
 
   get total() {
