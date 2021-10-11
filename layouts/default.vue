@@ -3,26 +3,26 @@
     <div>
       <v-navigation-drawer v-model="drawer" app :temporary="true">
         <v-list>
-        <v-list-item
-          v-for="(item, key) in menu"
-          :key="key"
-          :to="item.to"
-          :href="item.href"
-          link
-        >
-          <v-list-item-action v-if="item.icon">
-            <v-icon>{{ item.icon }}</v-icon>
-          </v-list-item-action>
-          <v-list-item-content>
-            <span>{{ $t(item.label) }}</span>
-          </v-list-item-content>
-        </v-list-item>
-      </v-list>
+          <v-list-item
+            v-for="(item, key) in menu"
+            :key="key"
+            :to="item.to"
+            :href="item.href"
+            link
+          >
+            <v-list-item-action v-if="item.icon">
+              <v-icon>{{ item.icon }}</v-icon>
+            </v-list-item-action>
+            <v-list-item-content>
+              <span>{{ $t(item.label) }}</span>
+            </v-list-item-content>
+          </v-list-item>
+        </v-list>
       </v-navigation-drawer>
 
       <v-app-bar dark>
         <!-- <v-app-bar-nav-icon v-if="isMobile" @click.stop="drawer = !drawer" /> -->
-        
+
         <v-toolbar-title>
           <nuxt-link
             :to="
@@ -83,8 +83,6 @@
             </v-list-item>
           </v-list>
         </v-menu>
-
-        
       </v-app-bar>
     </div>
 
@@ -119,13 +117,9 @@
 
 <script lang="ts">
 import { Vue, Component } from 'nuxt-property-decorator'
-import firebase from '../plugins/firebase'
-import FullTextSearch from '~/components/search/FullTextSearch.vue'
 
 @Component({
-  components: {
-    FullTextSearch,
-  },
+  components: {},
 })
 export default class search extends Vue {
   fab: boolean = false
